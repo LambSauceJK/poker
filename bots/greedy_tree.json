@@ -1,0 +1,20 @@
+{
+    "fitness": 0,
+    "statements": 2,
+    "complexity": 3,
+    "conditions": [
+        {
+            "isPair": 0,
+            "isSameSuit": 0,
+            "highestCard": 0,
+            "lowestCard": -5,
+            "totalPot": 0,
+            "isLeaf": false,
+            "action": "raise"
+        },
+        {
+            "isLeaf": true,
+            "action": "call"
+        }
+    ]
+}

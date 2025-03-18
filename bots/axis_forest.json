@@ -1,0 +1,2626 @@
+[
+    {
+        "fitness": -0.0006724462043036228,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -2.23891088712903,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.1273948084153268,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "fold"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.04640128789696818,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.28937435005199563,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "fold"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.06352991760659188,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.08627309815214779,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "fold"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.8155597552195822,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "raise"
+            }
+        ]
+    },
+    {
+        "fitness": -0.24593407527397815,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "fold"
+            }
+        ]
+    },
+    {
+        "fitness": -0.1213140448764094,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -14,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.1018493520518362,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -13,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.10359171266298706,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -12,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.09955828533717326,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.08923411127109859,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -10,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.07331038516918664,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -9,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.05614425845932336,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -8,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.04753994680425544,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -7,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.028275237980961543,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -6,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.01636994040476769,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -5,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.006366990640748749,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -4,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.0038059455243579787,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -3,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.014551335893128292,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": -2,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.09908207343412545,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 2,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.09277007839372853,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 3,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.07593517518598503,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 4,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.06653717702583806,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 5,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.048501119910406953,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 6,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.04611256099512018,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 7,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.018164796816254603,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 8,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.018019808415326688,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 9,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.005973272138228625,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 10,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.008843042556595626,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 12,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.01566124710023198,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 13,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.025786687065034952,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 14,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.12320639348852092,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -14,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.12622365210783093,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -13,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.11747185225181977,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -12,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.13040331773458125,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -11,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.13944509439244868,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -10,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.13865265778737712,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -9,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.1475031997440206,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -8,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.14533087353011764,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.1256774458043356,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -6,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.10479411647068237,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -5,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.09058400327973759,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -4,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.05083093352531798,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -3,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.014663826893848597,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": -2,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.08776547876169893,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 2,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.047463702903768,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 3,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.014863810895128338,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 4,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.008181845452363778,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 5,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.0012936465082794557,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 6,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.011692814574834287,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 8,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": 0.0009649228061753279,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 9,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.007695634349251912,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 10,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.01706113510919094,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 11,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.011929045676346006,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 12,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.013386429085673335,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 13,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.015837483001359787,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 14,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.019015978721702242,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 4,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.06489980801535888,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 6,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.09205138588912887,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 8,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.15140413766898653,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 10,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": true,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    },
+    {
+        "fitness": -0.9269495940324778,
+        "statements": 4,
+        "complexity": 8,
+        "conditions": [
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 11,
+                "lowestCard": 7,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "call"
+            },
+            {
+                "isPair": 0,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 2,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isPair": -1,
+                "isSameSuit": 0,
+                "highestCard": 0,
+                "lowestCard": 0,
+                "cardDifference": 0,
+                "totalPot": 0,
+                "isLeaf": false,
+                "action": "raise"
+            },
+            {
+                "isLeaf": true,
+                "action": "call"
+            }
+        ]
+    }
+]
