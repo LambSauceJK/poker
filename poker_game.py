@@ -44,7 +44,7 @@ class PokerGame:
         self.ui.end_game()
         return 
     
-    def run_hands(self, n=1000, player_money=50):
+    def run_hands(self, player_money, n):
         for i in range(n):
             self.do_round()
             self.update_history()

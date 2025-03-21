@@ -104,12 +104,12 @@ class GeneticSearch:
 if __name__ == "__main__":
     start_time = time.time()
     genetic_search = GeneticSearch(population_size=100, 
-                                   generations=2, 
+                                   generations=10, 
                                    mutation_rate=0.4, 
-                                   hands = 100,
+                                   hands = 100000,
                                    worker_count=8,
-                                   opponents=[bots.CheaterBot],
-                                   folder="./bots/gs_cheater/")
+                                   opponents=[fft_bot.PassiveFFT],
+                                   folder="./bots/gs_passive/")
     best_bot = genetic_search.run()
     end_time = time.time()
     print("Best Bot:")

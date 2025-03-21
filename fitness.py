@@ -12,13 +12,13 @@ def calculate_fft_fitness(tree, opponents = [bots.CallMachineBot, bots.HazardBot
         game = pg.PokerGame(blind_increment = 2)
         players = [fft_bot.FFTBot(game, money=start_money, tree=tree), p2(game, money=start_money)]
         game.initialise_players(players, shuffle=False)
-        game.run_hands(n=hands)
+        game.run_hands(n=hands, player_money=start_money)
         history = game.history
         average[i] = np.average(history[players[0]]) - start_money
         std_dev[i] = np.std(history[players[0]])
-    fitness = np.average(average)/2
+    fitness = np.average(average)
     tree.fitness = fitness
-    return fitness # Delime 2 protoze chceme pocet big blinds
+    return fitness 
 
 
 
@@ -40,7 +40,7 @@ class FitnessCalculator:
         processes = []
         queue = self.queue
         for _ in range(self.worker_count):
-            process = multiprocessing.Process(target=calculate_fitness, args=(queue, self.tree, self.hands_per_worker))
+            process = multiprocessing.Process(target=calculate_fitness, args=(queue, self.tree, self.hands_per_worker, self.opponents))
             processes.append(process)
         self.processes = processes
         
@@ -67,11 +67,10 @@ def calculate_fitness(queue, tree, hands_per_worker, opponents = [bots.CallMachi
         game = pg.PokerGame(blind_increment = 2)
         players = [fft_bot.FFTBot(game, money=start_money, tree=tree), p2(game, money=start_money)]
         game.initialise_players(players, shuffle=False)
-        game.run_hands(n=hands_per_worker)
+        game.run_hands(n=hands_per_worker, player_money=start_money)
         history = game.history
         average[i] = np.average(history[players[0]]) - start_money
         std_dev[i] = np.std(history[players[0]])
-    fitness = np.average(average)/2
+    fitness = np.average(average)
     tree.fitness = fitness
-    queue.put(fitness) # Delime 2 protoze chceme pocet big blinds
-    
+    queue.put(fitness) 

@@ -3,7 +3,7 @@ import bot_players as bots
 from constants import GamePhase
 
 class FFTBot(bots.BotPlayer):
-    def __init__(self, game, name = "FFTBot", money = 50, tree = None, filepath = None, bot_dictionary = None):
+    def __init__(self, game, name = "FFTBot", money = 20, tree = None, filepath = None, bot_dictionary = None):
         super().__init__(game, name, money)
         self.bot = True
         self.create_tree(tree, filepath, bot_dictionary)

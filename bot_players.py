@@ -4,7 +4,7 @@ from constants import GamePhase
 from combinations import evaluate_hand
 
 class BotPlayer(Player):
-    def __init__(self, game, name = "BotPlayer", money = 50):
+    def __init__(self, game, name = "BotPlayer", money = 20):
         super().__init__(game, name, money)
         self.bot = True
 
@@ -33,7 +33,7 @@ class BotPlayer(Player):
         return self.fold()
     
 class CheaterBot(BotPlayer):
-    def __init__(self, game, name = "Podvodnik", money = 50, alcohol_resistance = 1):
+    def __init__(self, game, name = "Podvodnik", money = 20, alcohol_resistance = 1):
         super().__init__(game, name, money)
         self.bot = True
         self.alcohol_resistance = alcohol_resistance
@@ -73,7 +73,7 @@ class CheaterBot(BotPlayer):
         return self.limit_fold()
     
 class HazardBot(BotPlayer):
-    def __init__(self, game, name = "Hazarder", money = 50):
+    def __init__(self, game, name = "Hazarder", money = 20):
         super().__init__(game, name, money)
         self.bot = True
     
@@ -87,7 +87,7 @@ class HazardBot(BotPlayer):
         return self.limit_raise(biggest_bet)
 
 class CallMachineBot(BotPlayer):
-    def __init__(self, game, name = "Dorovnavac", money = 50):
+    def __init__(self, game, name = "Dorovnavac", money = 20):
         super().__init__(game, name, money)
     
     def choose_bet(self, biggest_bet):
@@ -98,7 +98,7 @@ class CallMachineBot(BotPlayer):
 
 
 class IndifferentBot(BotPlayer):
-    def __init__(self, game, name = "IndifferentBot", money = 50, thresholds = (0.3, 0.8, 0.99)):
+    def __init__(self, game, name = "IndifferentBot", money = 20, thresholds = (0.3, 0.8, 0.99)):
         super().__init__(game, name, money)
         self.fold_threshold = thresholds[0]
         self.call_threshold = thresholds[1]
@@ -128,7 +128,7 @@ class IndifferentBot(BotPlayer):
         
 
 class NoobBot(BotPlayer):
-    def __init__(self, game, name = "NoobBot", money = 50):
+    def __init__(self, game, name = "NoobBot", money = 20):
         super().__init__(game, name, money)
         self.bot = True
 
@@ -155,7 +155,7 @@ class NoobBot(BotPlayer):
 
 
 class PreFlopBot(BotPlayer):
-    def __init__(self, game, name = "PreflopBot", money = 50):
+    def __init__(self, game, name = "PreflopBot", money = 20):
         super().__init__(game, name, money)
         self.bot = True
 
@@ -203,7 +203,7 @@ class PreFlopBot(BotPlayer):
     
 
 class EVBot(BotPlayer):
-    def __init__(self, game, name = "Evicka", money = 50, p_raise = 0.66, p_call = 0.33, n_sim = 10):
+    def __init__(self, game, name = "Evicka", money = 20, p_raise = 0.66, p_call = 0.33, n_sim = 10):
         super().__init__(game, name, money)
         self.bot = True
         self.p = -1
@@ -261,7 +261,7 @@ class EVBot(BotPlayer):
         return wins / self.n_sim
 
 class CheaterHandsBot(BotPlayer):
-    def __init__(self, game, name = "Evicka", money = 50, p_raise = 0.66, p_call = 0.33, n_sim = 10):
+    def __init__(self, game, name = "Evicka", money = 20, p_raise = 0.66, p_call = 0.33, n_sim = 10):
         super().__init__(game, name, money)
         self.bot = True
         self.p = -1
@@ -317,7 +317,7 @@ class CheaterHandsBot(BotPlayer):
         return wins / self.n_sim
   
 class CheaterCommunityBot(BotPlayer):
-    def __init__(self, game, name = "Evicka", money = 50, p_raise = 0.66, p_call = 0.33, n_sim = 10):
+    def __init__(self, game, name = "Evicka", money = 20, p_raise = 0.66, p_call = 0.33, n_sim = 10):
         super().__init__(game, name, money)
         self.bot = True
         self.p = -1
