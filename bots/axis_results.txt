@@ -1,0 +1,47 @@
+if highestCard <= 3 then call
+if lowestCard >= 6 then raise
+if highestCard >= 13 then raise
+else call
+
+if highestCard <= 4 then call
+if lowestCard >= 6 then raise
+if highestCard >= 13 then raise
+else call
+fitness 0.04673626109911133
+
+-----------
+
+if highestCard >= 11 then raise
+if isPair <= 1 lowestCard <= 13 then raise
+else call
+
+if highestCard >= 11 then raise
+if isPair <= 1 lowestCard <= 13 then raise
+else call
+fitness 1.352291816654668
+
+-----------
+
+if lowestCard <= 12 then call
+if lowestCard >= 6 then raise
+else raise
+
+if lowestCard <= 12 then call
+if lowestCard >= 10 then raise
+else raise
+fitness 0.05104591632669342
+
+-----------
+
+if highestCard >= 7 lowestCard >= 9 then raise
+if totalPot >= 30 then raise
+if totalPot >= 10 then call
+else raise
+
+if highestCard >= 7 lowestCard >= 11 then raise
+if totalPot >= 30 then raise
+if totalPot >= 10 then call
+else raise
+fitness 0.23689104871610267
+
+-----------

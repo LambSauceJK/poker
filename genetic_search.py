@@ -108,8 +108,8 @@ if __name__ == "__main__":
                                    mutation_rate=0.4, 
                                    hands = 100000,
                                    worker_count=8,
-                                   opponents=[fft_bot.PassiveFFT],
-                                   folder="./bots/gs_passive/")
+                                   opponents=[bots.HazardBot, bots.CheaterBot],
+                                   folder="./bots/gs_cheater_hazard/")
     best_bot = genetic_search.run()
     end_time = time.time()
     print("Best Bot:")

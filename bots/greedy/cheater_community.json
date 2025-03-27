@@ -1,5 +1,5 @@
 {
-    "fitness": 0,
+    "fitness": -0.0980790192098091,
     "statements": 2,
     "complexity": 3,
     "conditions": [
@@ -7,9 +7,9 @@
             "isPair": 0,
             "isSameSuit": 0,
             "highestCard": 0,
-            "lowestCard": 5,
+            "lowestCard": 0,
             "cardDifference": 0,
-            "totalPot": 0,
+            "totalPot": -20,
             "isLeaf": false,
             "action": "raise"
         },

@@ -14,8 +14,9 @@ class AxisAlignedSearch:
         self.best_fitness = -np.inf
         # clause pointer
         
-    def run_axis_search(self, starting_tree = None, statements = 2, hands = 100, worker_count = 1):
+    def run_axis_search(self, starting_tree = None, statements = 2, hands = 100, opponents = [bots.EVBot], worker_count = 8):
         self.hands = hands
+        self.opponents = opponents
         self.worker_count = worker_count
         if starting_tree is not None:
             self.starting_tree = copy.deepcopy(starting_tree)
@@ -66,8 +67,7 @@ class AxisAlignedSearch:
         self.forest.append(self.current_tree.to_json())   
     
     def find_fitness(self):
-        # fit = fitness.calculate_fft_fitness(self.current_tree, hands=self.hands, opponents=[bots.EVBot])
-        self.calculator = fitness.FitnessCalculator(self.current_tree, hands=self.hands, opponents=[bots.EVBot], worker_count=self.worker_count)
+        self.calculator = fitness.FitnessCalculator(self.current_tree, hands=self.hands, opponents=self.opponents, worker_count=self.worker_count)
         self.calculator.create_workers()
         fit = self.calculator.run_workers()
         self.current_tree.fitness = fit

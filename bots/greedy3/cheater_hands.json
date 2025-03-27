@@ -1,0 +1,41 @@
+{
+    "fitness": 0.08141348692104655,
+    "statements": 4,
+    "complexity": 7,
+    "conditions": [
+        {
+            "isPair": 0,
+            "isSameSuit": 0,
+            "highestCard": -14,
+            "lowestCard": 0,
+            "cardDifference": 0,
+            "totalPot": 0,
+            "isLeaf": false,
+            "action": "raise"
+        },
+        {
+            "isPair": 1,
+            "isSameSuit": 0,
+            "highestCard": 0,
+            "lowestCard": 0,
+            "cardDifference": 0,
+            "totalPot": 0,
+            "isLeaf": false,
+            "action": "raise"
+        },
+        {
+            "isPair": 0,
+            "isSameSuit": 0,
+            "highestCard": 0,
+            "lowestCard": -12,
+            "cardDifference": 0,
+            "totalPot": 0,
+            "isLeaf": false,
+            "action": "call"
+        },
+        {
+            "isLeaf": true,
+            "action": "call"
+        }
+    ]
+}

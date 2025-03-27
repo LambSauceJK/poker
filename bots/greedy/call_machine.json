@@ -1,13 +1,13 @@
 {
-    "fitness": 0,
+    "fitness": 0.044269557304428275,
     "statements": 2,
     "complexity": 3,
     "conditions": [
         {
             "isPair": 0,
             "isSameSuit": 0,
-            "highestCard": 0,
-            "lowestCard": 5,
+            "highestCard": -12,
+            "lowestCard": 0,
             "cardDifference": 0,
             "totalPot": 0,
             "isLeaf": false,

@@ -1,0 +1,90 @@
+greedy call_machine
+if highestCard >= 12 then raise
+else call
+0.044269557304428275
+
+-----------------
+
+greedy hazard
+if highestCard >= 12 then raise
+else call
+1.1464885351146492
+
+-----------------
+
+greedy evicka
+if lowestCard >= 10 then raise
+else call
+0.16637833621663844
+
+-----------------
+
+greedy cheater
+if totalPot >= 20 then raise
+else call
+-0.4754752452475479
+
+-----------------
+
+greedy cheater_hands
+if highestCard >= 14 then raise
+else call
+0.043689563104369
+
+-----------------
+
+greedy cheater_community
+if totalPot >= 20 then raise
+else call
+-0.0980790192098091
+
+-----------------
+
+greedy2 call_machine
+if highestCard >= 12 then raise
+if lowestCard >= 7 then raise
+else call
+0.04912606991440649
+
+-----------------
+
+greedy2 hazard
+if highestCard >= 12 then raise
+if lowestCard >= 8 then raise
+else call
+1.3577313814894807
+
+-----------------
+
+greedy2 evicka
+if lowestCard >= 10 then raise
+if totalPot <= 10 then raise
+else call
+0.20365370770338354
+
+-----------------
+
+greedy2 cheater
+if totalPot >= 20 then raise
+if highestCard >= 13 then call
+else call
+-0.46784257259419215
+
+-----------------
+
+greedy2 cheater_hands
+if highestCard >= 14 then raise
+if isPair <= 1 then raise
+else call
+0.07318414526837813
+
+-----------------
+
+greedy2 cheater_community
+if totalPot >= 20 then raise
+if highestCard <= 11 then call
+else call
+-0.08574314054875565
+
+-----------------
+
